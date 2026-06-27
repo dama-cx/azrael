@@ -141,7 +141,7 @@ export const botConfig = {
       // Default footer text used in bot embeds.
       text: "Azrael",
       // Footer icon URL (null = no icon).
-      icon: https://i.imgur.com/jMFIKES_d.webp?maxwidth=760&fidelity=grand,
+      icon: null,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
