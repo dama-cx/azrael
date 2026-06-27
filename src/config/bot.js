@@ -11,7 +11,7 @@ export const botConfig = {
   // - "invisible" = appears offline
   presence: {
     // Current online state shown on Discord.
-    status: "online",
+    status: "idle",
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
@@ -141,7 +141,7 @@ export const botConfig = {
       // Default footer text used in bot embeds.
       text: "Azrael",
       // Footer icon URL (null = no icon).
-      icon: null,
+      icon: https://i.imgur.com/jMFIKES_d.webp?maxwidth=760&fidelity=grand,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
